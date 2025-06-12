@@ -12,4 +12,3 @@ def end():
 
 start()
 counter()
-end()
