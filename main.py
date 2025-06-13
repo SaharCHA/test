@@ -12,3 +12,7 @@ def end():
 
 start()
 counter()
+
+
+end()
+print("End is added!")
