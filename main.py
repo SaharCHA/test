@@ -12,3 +12,9 @@ def end():
 
 start()
 counter()
+
+
+def myName():
+    print("My name is Evann")
+
+myName()
